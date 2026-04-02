@@ -1,95 +1,134 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=319795&size=22&center=true&vCenter=true&width=600&lines=Hey+there!+It's+Faizan+Alam!;Full+Stack+Web+Developer...;Building+digital+solutions+with+code!;" alt="Typing SVG" />
-</p>
 
+ <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Hey!+It's+Faizan+Alam!;Full+Stack-Web+Developer...;" style="width: 100%;">
+
+<div  >
 # Hi, I'm Faizan Alam! 👋
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/faizan-alam-091063334/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:faizansaikh786786f@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://portfolio2-mauve-one.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+I'm a passionate developer with a love for Full-Stack Web Development.
 
----
+🌱 I’m currently learning and exploring new technologies in Full-Stack Web Development.
 
-### 👨‍💻 About Me
+💬 Ask me about my expertise in *Front-End* ,*back-End* development, or if you have any questions, feel free to reach out.
 
-I'm a passionate **Full-Stack Web Developer** who loves turning complex problems into elegant, clean code. Whether it's crafting responsive frontends or architecting robust backends, I'm always eager to learn and explore new technologies.
+### My Portfolio
+🚀 Check out some of my projects in my [Portfolio](https://portfolio2-mauve-one.vercel.app/).
+🚀 GitHub Profile [GitHub](https://github.com/faizanalam9835)
 
-* 🌱 **Currently learning:** Deep diving into Microservices and advanced System Design.
-* 💬 **Ask me about:** React, Node.js, and Database Management.
-* 📫 **How to reach me:** Feel free to drop a message for collaborations or just a tech chat!
-* 😄 **Fun Fact:** I believe a smile is the best debugging tool—it keeps the logic flowing!
+### My Experience
+📄 Learn more about my professional journey by viewing my [resume]([https://drive.google.com/file/d/1AzsqdXuUc5UsaZlQDffaj6fM-9jOBCdX/view?usp=sharing]).
 
----
+### Get in Touch
+📧 You can reach me at *faizansaikh786786f@gmail.com*. Feel free to drop me a message or collaborate on exciting projects.
 
-### 🚀 Languages & Tools
+### Fun Fact
+😄 Fun fact about me: I always find a reason to smile, even in the toughest situations. 🤣
 
-<details open>
-<summary><b>Frontend Development</b></summary>
+### My Passion
+❤ I'm passionate about designing websites writing code logic and writing clean code.
+
+Connect with me on [LinkedIn]([https://www.linkedin.com/in/faizan-alam-091063334/]) ➡
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+## <h2 align="center">🚀 Languages and Tools:</h2>
+
+### Frontend
+
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white" alt="Chakra" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
+   <!-- <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular" /> --!>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" /> 
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/ChakraUI-319795?logo=chakraui&logoColor=white" alt="Chakra UI" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white" alt="Styled Components" />
 </p>
-</details>
 
-<details open>
-<summary><b>Backend & Databases</b></summary>
+### Backend
+
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
-</details>
 
-<details open>
-<summary><b>Tools & Infrastructure</b></summary>
+### Tools & Platforms
+
 <p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-1A3D59?logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" alt="Notion" />
 </p>
-</details>
 
----
+<br/>
+ </div>
+</div>
 
-### 📊 My GitHub Stats
+<div>
+<h2 align="center">🤝 Support</h2>
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤ in India</p>
+
+
+<h2 align="center">🗽 My GitHub Stats</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanalam9835&layout=compact&theme=algolia&border_radius=10&hide=hack,swift,kotlin" alt="Top Langs" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=faizanalam9835&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" />
+  <img 
+    alt="Top Languages" 
+    width="500px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanalam9835&exclude_repo=NEBULA,NEBULA_BACKEND,nb,RockPaperScissors&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=4&hide=hack,swift,kotlin,objective-c" 
+  />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=faizanalam9835&theme=algolia&border_radius=10" alt="GitHub Streak" />
-</p>
-
----
-
-### 📄 Professional Links
-* 🌐 **Portfolio:** [Visit My Site](https://portfolio2-mauve-one.vercel.app/)
-* 💼 **Resume:** [View My CV](https://drive.google.com/file/d/1AzsqdXuUc5UsaZlQDffaj6fM-9jOBCdX/view?usp=sharing)
-* 🤝 **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/faizan-alam-091063334/)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom Design" />
+  <img 
+    alt="GitHub Streak" 
+    width="500px"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=faizanalam9835&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8" 
+  />
 </p>
 
 <p align="center">
-  <b>Made with ❤️ in India</b>
+ <img 
+  alt="GitHub Stats" 
+  width="500px" 
+  src="https://github-readme-stats.vercel.app/api?username=faizanalam9835&show_icons=true&count_private=true&include_all_commits=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" 
+/>
 </p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" 
+    alt="Bottom Design" 
+  />
+</p>
+
+</div>
+
+<div align="center">
+ 
+## 🌐 Connect with Me
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/faizan-alam-091063334/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+<br/>
+
+</div>
+<br/><br/><br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
+  keep it and update the readme should be real and good and enhanced 
