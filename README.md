@@ -1,4 +1,3 @@
-
  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Hey!+It's+Faizan+Alam!;Full+Stack-Web+Developer...;" style="width: 100%;">
 
 <div  >
@@ -102,11 +101,11 @@ Connect with me on [LinkedIn]([https://www.linkedin.com/in/faizan-alam-091063334
 </p>
 
 <p align="center">
- <img 
-  alt="GitHub Stats" 
-  width="500px" 
-  src="https://github-readme-stats.vercel.app/api?username=faizanalam9835&show_icons=true&count_private=true&include_all_commits=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" 
-/>
+  <img 
+    alt="GitHub Stats" 
+    width="500px"
+    src="https://github-readme-stats.vercel.app/api?username=faizanalam9835&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" 
+  />
 </p>
 
 <p align="center">
@@ -130,5 +129,4 @@ Connect with me on [LinkedIn]([https://www.linkedin.com/in/faizan-alam-091063334
 
 </div>
 <br/><br/><br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
-  keep it and update the readme should be real and good and enhanced 
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">  
