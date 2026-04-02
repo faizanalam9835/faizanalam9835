@@ -102,11 +102,11 @@ Connect with me on [LinkedIn]([https://www.linkedin.com/in/faizan-alam-091063334
 </p>
 
 <p align="center">
-  <img 
-    alt="GitHub Stats" 
-    width="500px"
-    src="https://github-readme-stats.vercel.app/api?username=faizanalam9835&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" 
-  />
+ <img 
+  alt="GitHub Stats" 
+  width="500px" 
+  src="https://github-readme-stats.vercel.app/api?username=faizanalam9835&show_icons=true&count_private=true&include_all_commits=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" 
+/>
 </p>
 
 <p align="center">
